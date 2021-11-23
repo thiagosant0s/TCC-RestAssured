@@ -1,0 +1,15 @@
+# general
+!.gitignore*
+.metadata/
+target/
+
+# eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# idea
+.idea
+*.iml
+/out

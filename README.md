@@ -1,6 +1,6 @@
 <h1 align="center">REST-Assured</h1>
 
-<p align="center">Projeto de testes funcionais de API realizados no REST-Assured</p>
+<p align="center">Projeto de testes funcionais de API realizados com o uso do framework REST-Assured</p>
 
 ---
 
@@ -56,14 +56,11 @@ Antes de iniciar, você deverá instalar as seguinte ferramentas em sua máquina
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/emanuelmassafera/imobiliaria-digital-api.git
+$ git clone https://github.com/thiagosant0s/TCC-RestAssured.git
 # Access the project folder via the terminal/cmd
-$ cd imobiliaria-digital-api
-# Install dependencies
-$ npm install
+$ cd imobiliaria-digital-restAssured
 # Run
-$ npm start
-# The server will start at port:5050
+$ mvn clean verify
 ```
 ---
 
